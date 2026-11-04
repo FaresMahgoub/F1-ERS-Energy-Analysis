@@ -16,7 +16,8 @@ This is Phase 1 of a personal project building a simplified F1-style hybrid ener
 | Shortfall to be harvested from braking | **1.85 MJ** |
 | Equivalent superclipping time at 350 kW | at least 5.3 s per lap |
 
-![Energy per corner](figures/energy_per_corner.png)
+![Energy per corner]<img width="3235" height="1461" alt="energy_per_corner" src="https://github.com/user-attachments/assets/0add627c-a598-420a-b345-664a746deeed" />
+
 
 ### Energy per braking zone
 
@@ -36,7 +37,8 @@ This is Phase 1 of a personal project building a simplified F1-style hybrid ener
 3. **Braking alone cannot meet the 5 MJ qualifying limit at Monza.** About 1.85 MJ per lap must be harvested elsewhere, most likely by superclipping (the MGU-K harvesting engine power at full throttle near the end of straights). At the full 350 kW, that is at least 5.3 s per lap. At lower harvest power, it would take longer.
 4. **This telemetry cannot show where that harvesting happens.** After removing smoothing and sampling artefacts, no sustained full-throttle deceleration remained before the braking zones. The only remaining case, near the exit of Curva Grande (about 1,650 m), could equally be cornering drag or an active aero mode change. Locating the harvesting is the job of the Phase 2 car model.
 
-![Speed and braking power](figures/speed_and_braking_power.png)
+![Speed and braking power]<img width="3301" height="1453" alt="speed_and_braking_power" src="https://github.com/user-attachments/assets/65db7a33-ce1b-4a7c-a0d3-5923a127bc4b" />
+
 
 ## Data
 
